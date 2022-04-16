@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "u867083740_subha",
+    "password": "Subhamoy$24",
+    "database": "u867083740_chesta",
+    "host":  "185.187.241.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "u867083740_subha",
+    "password": "Subhamoy$24",
+    "database": "u867083740_chesta",
+    "host":  "185.187.241.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "u867083740_subha",
+    "password": "Subhamoy$24",
+    "database": "u867083740_chesta",
+    "host":  "185.187.241.1",
+    "dialect": "mysql"
+  }
+}
